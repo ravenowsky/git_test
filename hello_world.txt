@@ -1,0 +1,1 @@
+dude i had some trouble setting up git on vs code but it's all good i just reinstalled it
